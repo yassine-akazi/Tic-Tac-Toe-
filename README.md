@@ -6,7 +6,7 @@ Classic Tic Tac Toe gameplay with X's and O's
 Two-player mode
 Simple and intuitive user interface
 ## Installation
-Clone this repository using git clone https://github.com/your-username/tic-tac-toe.git
+Clone this repository using git clone https://github.com/yassine-akazi/Tic-Tac-Toe-.git
 Navigate to the project directory using cd tic-tac-toe
 Install the required packages using pip install -r requirements.txt
 Run the game using python tic_tac_toe.py
